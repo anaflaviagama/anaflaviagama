@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Gama!</h1>
-<h3 align="center">a Brazilian data (freak) analyst/ cientist with journalism and marketing backgrounds</h3>
+<h3 align="center">a Brazilian data (freak) analyst with Journalism and Marketing backgrounds</h3>
 
-- 🔭 I’m currently working on **finding a job to share my experiences and learn every day**
+- 🔭 I’m currently **looking for a job to share my experiences and learn every day**
 
 - 💬 Ask me about **anything! I just can't guarantee to always have the answer.**
 
